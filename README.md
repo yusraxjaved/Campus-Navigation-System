@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-01 at 12 22 07_98160348](https://github.com/user-attachments/assets/07dd889d-1f1c-4d00-a442-dfb4a7673029)
+
 
 # 🧭 Campus Navigation System
 
@@ -46,9 +46,8 @@ A simple Java-based console application that helps users navigate a university c
 - Library  
 - Israr Block  
 
-## 📷 Preview (Optional)
-
-
+## 📷 Preview
+![WhatsApp Image 2025-05-01 at 12 22 07_98160348](https://github.com/user-attachments/assets/07dd889d-1f1c-4d00-a442-dfb4a7673029)
 
 ## 📚 Future Improvements
 
